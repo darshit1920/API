@@ -2,7 +2,7 @@
 {"id":2,"title":"Double Cheese Margarita ","price":230,"description":"","category":"Veg","image":"https://www.dominos.co.in/files/items/Double_Cheese_Margherita.jpg","rating":{"rate":4.1,"count":"259"}},
 {"id":3,"title":"Chicken Sausage","price":250,"description":"","category":"Non Veg","image":"https://www.dominos.co.in/files/items/Chicken_Sausage.jpg","rating":{"rate":4.7,"count":500}},
 {"id":4,"title":"Farmhouse","price":270,"description":"","category":"Veg","image":"https://www.dominos.co.in/files/items/Farmhouse.jpg","rating":{"rate":2.1,"count":430}},
-{"id":5,"title":"Chunky Chicken","price":300,"description":"","category":"Non Veg","image":"https://www.dominos.co.in/files/items/chunky-chicken.png","rating":{"rate":4.6,"count":400}},
+{"id":5,"title":"Veg Loaded","price":170,"description":"","category":"Veg","image":"https://www.dominos.co.in/files/items/Crust_272X272.jpg","rating":{"rate":4.6,"count":400}},
 {"id":6,"title":"Non Veg Supreme","price":370,"description":"","category":"Non Veg","image":"https://www.dominos.co.in/files/items/Non-Veg_Supreme.jpg","rating":{"rate":3.9,"count":70}},
 {"id":7,"title":"Peppy Paneer","price":350,"description":"","category":"Veg","image":"https://www.dominos.co.in/files/items/Peppy_Paneer.jpg","rating":{"rate":3,"count":400}},
 {"id":8,"title":"Chunky Chicken","price":370,"description":"","category":"Non Veg","image":"https://www.dominos.co.in/files/items/chunky-chicken.png","rating":{"rate":1.9,"count":100}},
